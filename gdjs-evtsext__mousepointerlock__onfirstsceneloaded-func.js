@@ -9,7 +9,7 @@ gdjs.evtsExt__MousePointerLock__onFirstSceneLoaded = {};
 gdjs.evtsExt__MousePointerLock__onFirstSceneLoaded.idToCallbackMap = new Map();
 
 
-gdjs.evtsExt__MousePointerLock__onFirstSceneLoaded.userFunc0xebebb0 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__MousePointerLock__onFirstSceneLoaded.userFunc0x1510688 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 const canvas = runtimeScene.getGame().getRenderer().getCanvas();
 
@@ -26,7 +26,7 @@ gdjs.evtsExt__MousePointerLock__onFirstSceneLoaded.eventsList0 = function(runtim
 {
 
 
-gdjs.evtsExt__MousePointerLock__onFirstSceneLoaded.userFunc0xebebb0(runtimeScene, eventsFunctionContext);
+gdjs.evtsExt__MousePointerLock__onFirstSceneLoaded.userFunc0x1510688(runtimeScene, eventsFunctionContext);
 
 }
 
